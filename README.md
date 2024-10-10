@@ -1,4 +1,4 @@
-# Codelab 2 - Pemrograman Web Modul 2
+# Codelab - Pemrograman Web Modul 2
 
 ## Deskripsi Proyek
 
