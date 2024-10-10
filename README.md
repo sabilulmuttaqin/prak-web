@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Website **Clodus** adalah sebuah situs yang dirancang untuk layanan hosting sederhana. Latihan ini bertujuan untuk mengimplementasikan struktur dasar HTML dan menerapkan gaya visual menggunakan CSS. Proyek ini juga memperkenalkan konsep dasar desain responsif, sehingga website dapat diakses dengan baik di berbagai perangkat.
+Website **Clodus** adalah sebuah situs yang dirancang untuk layanan hosting sederhana. Latihan ini bertujuan untuk mengimplementasikan struktur dasar HTML dan menerapkan gaya visual menggunakan CSS.
 
 ## Fitur yang Diimplementasikan
 
