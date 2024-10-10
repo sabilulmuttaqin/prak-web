@@ -26,6 +26,4 @@ Website **Clodus** adalah sebuah situs yang dirancang untuk layanan hosting sede
 - Nama: Sabilul Muttaqin
 - NIM: 202210370311393
 - Kelas: Pemrograman Web D
-- Codelab: Latihan 2 - Pemrograman Web Modul 1
-
 
