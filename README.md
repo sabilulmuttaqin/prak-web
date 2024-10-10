@@ -8,7 +8,7 @@ Calculator dan Validasi form sederhana. Latihan ini bertujuan untuk mengimplemen
 
 - **Struktur HTML yang sederhana**: Hanya ada 1 container di tengah layar yang berisikan app.
 - **Stilisasi menggunakan CSS**: Penggunaan warna, font, layout, margin, padding, dan elemen gaya lainnya untuk membuat tampilan yang menarik.
-- 
+  
 ## Teknologi yang Digunakan
 
 - **HTML5**: Untuk membangun struktur dan elemen-elemen konten halaman web.
