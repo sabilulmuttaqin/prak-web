@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sea Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="calculator">
+        <h1 class="title">Sea Calculator</h1>
+        <div class="display">
+          <div id="result">0</div>
+        </div>
+
+        <div class="buttons">
+          <button class="btn" onclick="clearCalculator()">C</button>
+          <button class="btn" onclick="handleOperator('modulus')">%</button>
+          <button class="btn" onclick="handleOperator('pangkat')">^</button>
+          <button class="btn operator" onclick="handleOperator('bagi')">
+            /
+          </button>
+
+          <button class="btn" onclick="handleNumberClick('7')">7</button>
+          <button class="btn" onclick="handleNumberClick('8')">8</button>
+          <button class="btn" onclick="handleNumberClick('9')">9</button>
+          <button class="btn operator" onclick="handleOperator('kali')">
+            *
+          </button>
+
+          <button class="btn" onclick="handleNumberClick('4')">4</button>
+          <button class="btn" onclick="handleNumberClick('5')">5</button>
+          <button class="btn" onclick="handleNumberClick('6')">6</button>
+          <button class="btn operator" onclick="handleOperator('kurang')">
+            -
+          </button>
+
+          <button class="btn" onclick="handleNumberClick('1')">1</button>
+          <button class="btn" onclick="handleNumberClick('2')">2</button>
+          <button class="btn" onclick="handleNumberClick('3')">3</button>
+          <button class="btn operator" onclick="handleOperator('tambah')">
+            +
+          </button>
+
+          <button class="btn" onclick="handleNumberClick('0')">0</button>
+          <button class="btn" onclick="handleNumberClick('.')">.</button>
+          <button class="btn" onclick="handleBackspace()">⌫</button>
+          <button class="btn" onclick="handleEqual()">=</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
