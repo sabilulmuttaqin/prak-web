@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  text-align: center;
+}
+.output {
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+.output:hover {
+  cursor: pointer;
+  scale: 1.05;
+  transition: 0.4;
+}
+.output.default {
+  background-color: #3498db;
+}
+.output.pemrogramanwebsite {
+  background-color: #e74c3c;
+}
+.output.website {
+  background-color: #8e44ad;
+}
+.output.pemrograman {
+  background-color: #f39c12;
+}
+.output.special2024 {
+  background-color: #2ecc71;
+}
